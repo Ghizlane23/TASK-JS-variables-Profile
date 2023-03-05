@@ -38,6 +38,10 @@ const image="https://www.google.com.kw/images/branding/googlelogo/2x/googlelogo_
 // const yearOfBirthString =
 // const hobbyString =
 
+const fullNameString="My name is " + fullName
+const yearOfBirthString = "I am " + (2023-yearOfBirth)
+const hobbyString= "My hobby is " + hobby
+
 
 
 
@@ -50,14 +54,18 @@ let stars = 0;
 
 function incrementBy1() {
   // Increment stars by 1 👇🏻
+  stars=stars+1
 }
 function decrementBy1() {
   // decrement stars by 1 👇🏻
+  stars=stars-1
 }
 
 function incrementBy2() {
   // Increment stars by 2 👇🏻
+  stars=stars+2
 }
 function decrementBy2() {
   // decrement stars by 2 👇🏻
+  stars=stars-2
 }
