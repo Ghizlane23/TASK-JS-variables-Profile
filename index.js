@@ -10,6 +10,11 @@
  */
 
 // Part 1 answer 👇🏻 ...
+let fullName="ghizlane Essaidi"
+let yearOfBirth=1987
+let hobby="reading"
+let funFact="Early owl"
+const image="https://www.google.com.kw/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
 
 
 
